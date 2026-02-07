@@ -1,7 +1,7 @@
 # Speech Emotion Recognition (SER)
 
 **Submitted by:** Aarya Mehrotra  
-**Student ID:** [PUT YOUR ID HERE]
+**Student ID:** 2025B3PS1042P
 
 ## 1. Model Performance
 * **Test Accuracy:** 27%
